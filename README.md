@@ -1,41 +1,49 @@
-## Hi there 👋
-# Nikhil Sharma
+<h1 align="center">Nikhil Sharma</h1>
+<p align="center">
+  <b>Computer Science Undergraduate</b><br>
+  Python • SQL • Data Structures & Algorithms
+</p>
 
-Computer Science undergraduate with experience in Python, SQL, and Data Structures.  
-Interested in building clean, efficient systems and learning how things actually work.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+</p>
 
-## Skills
-- Python
-- SQL
-- C
-- Data Structures & Algorithms
+---
 
-## Projects
-- **Project Name** – one line on what it does and why it matters  
-  👉 https://github.com/yourusername/project-repo
-- **Another Project** – problem solved, tech used  
-  👉 https://github.com/yourusername/another-repo
+### 👋 About Me
+I’m a CS undergraduate focused on writing clean, efficient code and understanding how systems work under the hood.  
+Currently building projects that strengthen problem-solving and backend fundamentals.
 
-## Currently Learning
-- Advanced DSA
-- Backend fundamentals
+---
 
-## Contact
-- Email: your@email.com  
-- LinkedIn: link-here
+### 🛠 Skills
+- **Languages:** Python, C  
+- **Databases:** SQL  
+- **Core CS:** Data Structures & Algorithms  
+- **Tools:** Git, GitHub
 
+---
 
-<!--
-**PickleNikhil/PickleNikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
+- **Project Name**  
+  Short description of what it does and why it matters  
+  🔗 https://github.com/yourusername/project-repo
 
-Here are some ideas to get you started:
+- **Another Project**  
+  Problem solved + tech used  
+  🔗 https://github.com/yourusername/another-repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Currently Learning
+- Advanced DSA  
+- Backend development concepts
+
+---
+
+### 📫 Contact
+- **Email:** your@email.com  
+- **LinkedIn:** https://linkedin.com/in/yourprofile
+
