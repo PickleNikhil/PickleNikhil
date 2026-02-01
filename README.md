@@ -5,11 +5,11 @@
 <div align="center">
 <img src="https://github.com/yourusername.png" width="150px" style="border-radius: 50%;" alt="Profile Picture"/>
 
-# Mohit
+# Nikhil
 
-**@yourusername · he/him**
+**@PickleNikhil**
 
-Full Stack Development, Machine Learning, Open Source enthusiast
+Full Stack Development, Machine Learning, Open Source enthusiast, I love Pickling binary!
 
 ---
 
@@ -45,16 +45,7 @@ Full Stack Development, Machine Learning, Open Source enthusiast
 
 ---
 
-### Support My Work
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-
-</div>
-
-</td>
-<td width="70%" valign="top">
-
-## Hey! I'm Sai Mohit Kotta 👋
+## Nikhil Sharma 👋
 
 **Full Stack Development, Machine Learning, Open Source contributor!**
 
