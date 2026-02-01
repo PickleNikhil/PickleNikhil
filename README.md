@@ -5,17 +5,17 @@
 <div align="center">
 <img src="https://github.com/yourusername.png" width="150px" style="border-radius: 50%;" alt="Profile Picture"/>
 
-# Nikhil Sharma
+# Mohit
 
-**@PickleNikhil · he/him**
+**@yourusername · he/him**
 
 Full Stack Development, Machine Learning, Open Source enthusiast
 
 ---
 
-### CSE Student @ Shiv Nadar University
+### CSE Student @ [Your University]
 
-📍 Gurgaon
+📍 [Your City, Country]
 
 ---
 
@@ -45,13 +45,22 @@ Full Stack Development, Machine Learning, Open Source enthusiast
 
 ---
 
-## Hello! I'm Nikhil Sharma 👋
+### Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+
+</div>
+
+</td>
+<td width="70%" valign="top">
+
+## Hey! I'm Sai Mohit Kotta 👋
 
 **Full Stack Development, Machine Learning, Open Source contributor!**
 
 ### 🎓 About Me
 
-- 🎓 2nd-year Computer Science student at **Shiv Nadar University**
+- 🎓 2nd-year Computer Science student at **[Your University]**
 - 💼 Currently SDE Intern at **[Company]**
 - 🏆 Core Team Member at **[College Club]**
 - 🚀 Full-fledged "Social Network Analysis" project on **NIFTY Bank FNO**
@@ -90,35 +99,36 @@ Full Stack Development, Machine Learning, Open Source enthusiast
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</td>
-<td width="50%">
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true)
 
-### 🏆 Pinned
+### 🏆 Pinned Projects
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1&theme=radical&hide_border=true)](https://github.com/yourusername/project-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=radical&hide_border=true)](https://github.com/yourusername/project-2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3&theme=radical&hide_border=true)](https://github.com/yourusername/project-3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-4&theme=radical&hide_border=true)](https://github.com/yourusername/project-4)
+<p align="center">
+  <a href="https://github.com/yourusername/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1&theme=radical&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/yourusername/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=radical&hide_border=true" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3&theme=radical&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/yourusername/project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-4&theme=radical&hide_border=true" width="48%" />
+  </a>
+</p>
 
 ---
 
