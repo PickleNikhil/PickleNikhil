@@ -3,13 +3,13 @@
 <td width="30%" valign="top">
 
 <div align="center">
-<img src="https://github.com/yourusername.png" width="150px" style="border-radius: 50%;" alt="Profile Picture"/>
+<img src="https://github.com/PickleNikhil.png" width="150px" style="border-radius: 50%;" alt="Profile Picture"/>
 
-# Nikhil
+# Nikhil Sharma
 
-**@PickleNikhil**
+**@PickleNikhil · he/him**
 
-Full Stack Development, Machine Learning, Open Source enthusiast, I love Pickling binary!
+Full Stack Development, Machine Learning, Open Source enthusiast
 
 ---
 
@@ -43,9 +43,13 @@ Full Stack Development, Machine Learning, Open Source enthusiast, I love Picklin
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
 
-## Nikhil Sharma 👋
+</div>
+
+</td>
+<td width="70%" valign="top">
+
+## Hey! I'm Nikhil Sharma 👋
 
 **Full Stack Development, Machine Learning, Open Source contributor!**
 
@@ -93,31 +97,31 @@ Full Stack Development, Machine Learning, Open Source enthusiast, I love Picklin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PickleNikhil&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PickleNikhil&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ### 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PickleNikhil&theme=github-compact&hide_border=true)
 
 ### 🏆 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/PickleNikhil/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PickleNikhil&repo=project-1&theme=radical&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/yourusername/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/PickleNikhil/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PickleNikhil&repo=project-2&theme=radical&hide_border=true" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/PickleNikhil/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PickleNikhil&repo=project-3&theme=radical&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/yourusername/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-4&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/PickleNikhil/project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PickleNikhil&repo=project-4&theme=radical&hide_border=true" width="48%" />
   </a>
 </p>
 
@@ -127,7 +131,7 @@ Full Stack Development, Machine Learning, Open Source enthusiast, I love Picklin
 
 💜 *Thanks for visiting my profile! Have a great day!* 💜
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/PickleNikhil/count.svg)
 
 </div>
 
